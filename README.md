@@ -32,7 +32,7 @@ The trucks were pretty straight forward to do, but I learned through a mistake t
 
 ### Evidence
 
-![Bushingk](Images/bushing.PNG)
+![Bushing](Images/bushing.PNG)
 
 
 ### Reflection
@@ -43,7 +43,7 @@ The bushing didn't give me any issues, except that I forgot to make the hole in 
 
 ### Evidence
 
-![Wheel and bearing](Images/wheel_and_bearing.PNG)
+<img src="https://github.com/elynch78/skateboard/blob/main/Images/wheel%20and%20bearing.PNG?raw=true"  height="600">
 
 
 ### Reflection
