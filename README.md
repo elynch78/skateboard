@@ -39,7 +39,7 @@ The trucks were pretty straight forward to do, but I learned through a mistake t
 The bushing didn't give me any issues, except that I forgot to make the hole in the truck hanger so later on the kingpin was just existing through the truck hanger instead of passing through the bushing and the truck hanger's hole. 
 
 
-## Wheel and Bearing
+## Wheel_and_Bearing
 
 ### Evidence
 
