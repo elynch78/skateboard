@@ -8,7 +8,7 @@
 * [Wheel and Bearing](#Wheel_and_Bearing)
 ---
 
-My goal was to create a skateboard in Onshape. Though there were [instructions,](https://cvilleschools.onshape.com/documents/8f7978e619ce2361d4fef868/w/c0de2062e132cfb4d5d40e04/e/f692990bd80aeeb0bd911808) I still had to figure things out along the way using shortcuts and features to make things go faster and work better. Examples of those helpful tools are Revolve, Use, and Replicate. 
+My goal was to create a skateboard in Onshape. Though there were [instructions,](https://cvilleschools.onshape.com/documents/8f7978e619ce2361d4fef868/w/c0de2062e132cfb4d5d40e04/e/f692990bd80aeeb0bd911808) I still had to figure things out along the way using shortcuts and features to make things go faster and work better. Examples of those helpful tools are Revolve, Use, and Replicate. I got the hang of CAD again, and learned many tips to help me work. I now feel confident using CAD and that i could try and recreate many parts of the skateboard without as descriptive instructions. 
 
 ## Evidence
 
