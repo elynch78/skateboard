@@ -1,4 +1,4 @@
-# skateboard
+# Skateboard
 
 ## Table of Contents
 * [Assembly](#Assembly)
