@@ -62,5 +62,14 @@ The bushing didn't give me any issues, except that I forgot to make the hole in 
 The revolve tool made creating the wheel super fast and efficient. When you use revolve, it leaves little room for error compared to using the extrude tool. The bearing fits right in, and a few small extrude removes later, I was moving on.
 
 
+## Duck
+
+![duck](Images/duck.PNG)
+
+### Reflection
+Once the bricks were made, this assignment was very quick and easy. Using Snap, the pieces came together in no time. The process was very efficient and I would definitely reccommend using the Snap tool in the future if you are connecting a lot of things like these legos. 
+
+
+
 
 
